@@ -2,10 +2,9 @@ name: Send Base64 Email
 
 on:
   schedule:
-    # UTC 时间：每天 0 点和 8 点 → 北京时间 8 点和 16 点
-    - cron: '0 7 * * *'
-    - cron: '0 16 * * *'
-    workflow_dispatch:      # 添加这个就能手动运行
+    - cron: '0 8 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
 
 jobs:
   send-mail:
@@ -37,5 +36,6 @@ jobs:
           ${{ steps.read_base64.outputs.content }}
         to: your@email.com
         from: GitHub Actions <your@email.com>
+
 
 
