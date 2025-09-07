@@ -26,7 +26,8 @@ jobs:
       uses: dawidd6/action-send-mail@v3
       with:
         server_address: smtp.qq.com
-        server_port: 587
+        server_port: 465
+        secure: true
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
         subject: "每日节点更新 - ${{ github.run_id }}"
@@ -36,6 +37,7 @@ jobs:
           ${{ steps.read_base64.outputs.content }}
         to: your@email.com
         from: GitHub Actions <your@email.com>
+
 
 
 
