@@ -1,0 +1,51 @@
+name: Send Email
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'  # 每天北京时间10:00执行
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install --upgrade pip
+
+    - name: Send email
+      env:
+        SMTP_SERVER: smtp.qq.com
+        SMTP_PORT: 465
+        SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+        AUTH_CODE: ${{ secrets.AUTH_CODE }}
+        RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+      run: |
+        python - <<EOF
+        import smtplib
+        from email.mime.text import MIMEText
+        from email.header import Header
+        from email.utils import formataddr
+
+        # 读取 list.txt 内容（假设已是 Base64）
+        with open('list.txt', 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        msg = MIMEText(f'以下是 list.txt 的 Base64 内容：\n\n{content}', 'plain', 'utf-8')
+        msg['From'] = formataddr((str(Header('GitHub Actions', 'utf-8')), '${{ env.SENDER_EMAIL }}'))
+        msg['To'] = '${{ env.RECEIVER_EMAIL }}'
+        msg['Subject'] = Header('每日节点更新', 'utf-8')
+
+        server = smtplib.SMTP_SSL('${{ env.SMTP_SERVER }}', ${{ env.SMTP_PORT }})
+        server.login('${{ env.SENDER_EMAIL }}', '${{ env.AUTH_CODE }}')
+        server.sendmail('${{ env.SENDER_EMAIL }}', ['${{ env.RECEIVER_EMAIL }}'], msg.as_string())
+        server.quit()
+        EOF
