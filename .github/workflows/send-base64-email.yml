@@ -4,7 +4,7 @@ on:
   schedule:
     # UTC 时间：每天 0 点和 8 点 → 北京时间 8 点和 16 点
     - cron: '0 7 * * *'
-    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
 
 jobs:
   send-mail:
@@ -25,7 +25,7 @@ jobs:
     - name: Send email with base64 content
       uses: dawidd6/action-send-mail@v3
       with:
-        server_address: smtp.example.com
+        server_address: smtp.qq.com
         server_port: 587
         username: ${{ secrets.MAIL_USERNAME }}
         password: ${{ secrets.MAIL_PASSWORD }}
@@ -36,3 +36,4 @@ jobs:
           ${{ steps.read_base64.outputs.content }}
         to: your@email.com
         from: GitHub Actions <your@email.com>
+
