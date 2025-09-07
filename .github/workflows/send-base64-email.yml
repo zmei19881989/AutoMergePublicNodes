@@ -1,43 +1,8 @@
-name: Send Base64 Email
+name: 基本
 
 on:
   schedule:
     - cron: '0 8 * * *'
     - cron: '0 17 * * *'
   workflow_dispatch:
-
-jobs:
-  send-mail:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Read list.txt content
-      id: read_base64
-      run: |
-        content=$(cat list.txt)
-        echo "content<<EOF" >> $GITHUB_OUTPUT
-        echo "$content" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
-
-    - name: Send email with base64 content
-      uses: dawidd6/action-send-mail@v3
-      with:
-        server_address: smtp.qq.com
-        server_port: 465
-        secure: true
-        username: ${{ secrets.MAIL_USERNAME }}
-        password: ${{ secrets.MAIL_PASSWORD }}
-        subject: "每日节点更新 - ${{ github.run_id }}"
-        body: |
-          以下是 list.txt 中的 Base64 编码内容：
-
-          ${{ steps.read_base64.outputs.content }}
-        to: your@email.com
-        from: GitHub Actions <your@email.com>
-
-
-
 
