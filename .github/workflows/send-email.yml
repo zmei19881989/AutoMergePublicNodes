@@ -1,0 +1,28 @@
+name: Send list.txt to Email
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'  # 每天凌晨 8 点自动运行（可改）
+    - cron: '0 12 * * *'  # 每天凌晨 8 点自动运行（可改） 
+    - cron: '0 16 * * *'  # 每天凌晨 8 点自动运行（可改） 
+jobs:
+  send_email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Send list.txt via email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.qq.com
+          server_port: 465
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          subject: '自动发送的 list.txt'
+          to: yourname@qq.com
+          from: ${{ secrets.SMTP_USER }}
+          body: |
+            这是今天自动生成的 list.txt 文件。
+          attachments: list.txt
