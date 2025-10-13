@@ -6,6 +6,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '10|@V2RayyNGvpn🇩🇪  '
+  obfs: salamander
+  obfs-password: V2RayyNGvpnjdbdbMiracle
+  password: 0cHs5waV2g
+  port: 443
+  server: 91.107.150.208
+  skip-cert-verify: true
+  sni: hacks.mozilla.org
+  tls: false
+  type: hysteria2
 - name: 10|@IRAN_V2RAY1
   password: 2429bee3-e0c1-47dd-b420-75e6512b184b
   port: 30300
@@ -476,7 +486,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '10|WI-FI--@IRAN_V2RAY1 #1'
+- name: '10| ➠ 𝐞: @V2Gatee'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
