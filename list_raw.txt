@@ -30,10 +30,14 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%232
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%234
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%237
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2310
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2312
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2314
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%239
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2310
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#10%7C%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%2312
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#10%7C%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%20%40freeOnlineVPN
+hysteria2://ada5516d-f772-414f-b11c-2faec29b5424@de2.oomz.ru:30000?insecure=1&sni=bing.com#10%7C%F0%9F%87%AA%40FreakConfig
+hysteria2://ada5516d-f772-414f-b11c-2faec29b5424@de3.oomz.ru:30000?insecure=1&sni=bing.com#10%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%232
+hysteria2://ada5516d-f772-414f-b11c-2faec29b5424@nl1.oomz.ru:30000?insecure=1&sni=bing.com#10%7C%F0%9F%87%B1%40FreakConfig%20%231
+hysteria2://ada5516d-f772-414f-b11c-2faec29b5424@nl2.oomz.ru:30000?insecure=1&sni=bing.com#10%7C%F0%9F%87%B1%40FreakConfig%20%232
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#10%7C%20%40AblNet7%20%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%20%231
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#10%7C%40sunflowerplato
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.28.100:45979?insecure=1&sni=www.bing.com#10%7C%F0%9F%94%90%20%40AblNet7%20%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90
@@ -87,6 +91,6 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.19.50.238:2096?allowInsecure=1&
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?allowInsecure=1&sni=bycf.lzjnb.shop&type=ws&host=bycf.lzjnb.shop&path=/?ed=2560fp=chrome&security=tls#14%7CUS_speednode_0037
 vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?allowInsecure=0&sni=dash.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#14%7CUS_speednode_0038
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D4a81070%3A6193#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dd4cbbb2%3A42774#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D874b20d%3A48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fzksuapgx%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dd4cbbb2%3A42774#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian

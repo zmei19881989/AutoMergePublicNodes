@@ -279,7 +279,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #10'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #9'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -289,7 +289,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #12'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -299,7 +299,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '10|🇳🇱 - NL - @freeOnlineVPN #14'
+- name: '10|🇳🇱 - NL - @freeOnlineVPN #12'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -317,6 +317,38 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: kotlet.arshiacomplus.dpdns.org
+  tls: false
+  type: hysteria2
+- name: 10|🇪@FreakConfig
+  password: ada5516d-f772-414f-b11c-2faec29b5424
+  port: 30000
+  server: de2.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '10|🇩🇪@FreakConfig #2'
+  password: ada5516d-f772-414f-b11c-2faec29b5424
+  port: 30000
+  server: de3.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '10|🇱@FreakConfig #1'
+  password: ada5516d-f772-414f-b11c-2faec29b5424
+  port: 30000
+  server: nl1.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '10|🇱@FreakConfig #2'
+  password: ada5516d-f772-414f-b11c-2faec29b5424
+  port: 30000
+  server: nl2.oomz.ru
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '10| @AblNet7 🇺🇸 机场推荐 #1'
