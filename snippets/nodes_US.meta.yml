@@ -49,42 +49,31 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 14|US_speednode_0045
-  port: 17597
-  server: usvless.yydzx.xyz
-  servername: usvless.yydzx.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 4741863d-e3ac-4b9d-8185-466f437b3fa8
-- name: 14|US_speednode_0048
+- name: 14|US_speednode_0009
   network: ws
-  port: 2095
-  server: linux.do
-  servername: fangbinxingnmsl.pusytroller.cf
+  port: 80
+  server: 104.18.255.7
+  servername: vpn13.sakeva2327.workers.dev
   skip-cert-verify: false
   tls: false
   type: vless
   udp: true
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  uuid: ac90a749-1b0d-4978-a767-ab07b0f3f98f
   ws-opts:
     headers:
-      Host: fangbinxingnmsl.pusytroller.cf
+      Host: vpn13.sakeva2327.workers.dev
     path: /
-- name: 14|US_speednode_0049
+- name: 14|US_speednode_0010
   network: ws
-  port: 2095
-  server: www.npmjs.com
-  servername: fangbinxingnmsl.pusytroller.cf
+  port: 80
+  server: 172.66.156.81
+  servername: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
   skip-cert-verify: false
   tls: false
   type: vless
   udp: true
-  uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40
+  uuid: 4fd5c113-c44a-4af3-a113-9752bea94155
   ws-opts:
     headers:
-      Host: fangbinxingnmsl.pusytroller.cf
-    path: /
+      Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
+    path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
