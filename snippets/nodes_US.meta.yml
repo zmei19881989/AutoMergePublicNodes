@@ -49,31 +49,16 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 14|US_speednode_0009
+- name: 14|US_speednode_0036
   network: ws
-  port: 80
-  server: 104.18.255.7
-  servername: vpn13.sakeva2327.workers.dev
-  skip-cert-verify: false
-  tls: false
-  type: vless
+  password: Aimer
+  port: 2053
+  server: 167.68.4.199
+  skip-cert-verify: true
+  sni: epge.muarua.filegear-sg.me
+  type: trojan
   udp: true
-  uuid: ac90a749-1b0d-4978-a767-ab07b0f3f98f
   ws-opts:
     headers:
-      Host: vpn13.sakeva2327.workers.dev
-    path: /
-- name: 14|US_speednode_0010
-  network: ws
-  port: 80
-  server: 172.66.156.81
-  servername: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 4fd5c113-c44a-4af3-a113-9752bea94155
-  ws-opts:
-    headers:
-      Host: websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.
-    path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+      Host: epge.muarua.filegear-sg.me
+    path: /?ed=2560
