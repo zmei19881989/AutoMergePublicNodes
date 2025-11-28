@@ -1,52 +1,4 @@
 proxies:
-- name: 9|🇯🇵b@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp10.dexlos.com
-  skip-cert-verify: true
-  sni: jp10.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵a@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp6.dexlos.com
-  skip-cert-verify: true
-  sni: jp6.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵e@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp7.dexlos.com
-  skip-cert-verify: true
-  sni: jp7.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵f@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp8.dexlos.com
-  skip-cert-verify: true
-  sni: jp8.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 9|🇯🇵d@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: jp9.dexlos.com
-  skip-cert-verify: true
-  sni: jp9.dexlos.com
-  tls: false
-  type: hysteria2
-- name: 9|a@oneclickvpnkeys
-  password: 14FD150A-579E-42A1-8212-9D2F6510A70C
-  port: 443
-  server: us7.dexlos.com
-  skip-cert-verify: true
-  sni: us7.dexlos.com
-  tls: false
-  type: hysteria2
 - name: 9|️17@oneclickvpnkeys
   password: 2408982813-20241210
   port: 443
@@ -121,22 +73,6 @@ proxies:
   server: 91.99.225.11
   skip-cert-verify: true
   sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: 9|🇺🇸b@oneclickvpnkeys
-  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
-  port: 443
-  server: 208.87.242.77
-  skip-cert-verify: true
-  sni: www.apple.com
-  tls: false
-  type: hysteria2
-- name: 9|🇺🇸c@oneclickvpnkeys
-  password: 312d3555-d7a3-4674-869a-0e5b7ee03a35
-  port: 443
-  server: 208.87.242.97
-  skip-cert-verify: true
-  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: 9|🎵1@oneclickvpnkeys
@@ -361,7 +297,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|⚒️9@oneclickvpnkeys
+- name: 9|️9@oneclickvpnkeys
   password: e9bc7ffe-04fa-448c-813e-f3f730989d4c
   port: 52886
   server: 5.180.30.16
@@ -385,12 +321,52 @@ proxies:
   sni: ashburn.nezhasu.com
   tls: false
   type: hysteria2
+- name: 9|🎵79@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: gy5.nezhasu.com
+  skip-cert-verify: true
+  sni: gy5.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 9|🎵90@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: gy9.nezhasu.com
+  skip-cert-verify: true
+  sni: gy9.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: 9|🎵13@oneclickvpnkeys
   password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
   port: 443
   server: lundun3.nezhasu.com
   skip-cert-verify: true
   sni: lundun3.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 9|🎵83@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: phoenix-2.nezhasu.com
+  skip-cert-verify: true
+  sni: phoenix-2.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 9|🎵85@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: phoenix-4.nezhasu.com
+  skip-cert-verify: true
+  sni: phoenix-4.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 9|🎵82@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: sanjose.nezhasu.com
+  skip-cert-verify: true
+  sni: SanJose.nezhasu.com
   tls: false
   type: hysteria2
 - name: 10|MCI-IR--@V2rayAlpha-16
@@ -830,6 +806,14 @@ proxies:
   server: 91.99.225.11
   skip-cert-verify: true
   sni: refersion.com
+  tls: false
+  type: hysteria2
+- name: '10|@V2ray1_Ng #1'
+  password: 7daa4a7f-f76e-4941-84bd-c6004cdbb859
+  port: 30000
+  server: 94.249.197.95
+  skip-cert-verify: true
+  sni: bing.com
   tls: false
   type: hysteria2
 - name: '10|🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #2'
@@ -1319,7 +1303,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '10|@meli_proxyy #9'
+- name: '10|limo #1'
   obfs: salamander
   obfs-password: 2wsx
   password: bd60e683-4da1-4856-9451-991d40fed6a4
