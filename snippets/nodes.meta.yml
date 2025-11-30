@@ -5,13 +5,6 @@ proxies:
   server: genshin-v4-oracle-amd.damaoooo.com
   tls: false
   type: hysteria2
-- name: 9|10@oneclickvpnkeys
-  password: 2b195c17-5ff5-4b0d-a809-210b92212394
-  port: 443
-  server: tokyo.nezhasu.com
-  sni: Tokyo.nezhasu.com
-  tls: false
-  type: hysteria2
 - name: 9|49@oneclickvpnkeys
   password: 2b195c17-5ff5-4b0d-a809-210b92212394
   port: 443
@@ -193,13 +186,6 @@ proxies:
   port: 35000
   server: dir.cybsecguru.com
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: '9,10|🔸@IRAN_V2RAY1💘 #4'
-  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
-  port: 21268
-  server: hk.xn--gmq00sc0nuve.shop
-  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '9,10|@meli_proxyy #13'
@@ -1341,6 +1327,13 @@ proxies:
   server: sb2.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '10|🔸@IRAN_V2RAY1💘 #4'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21268
+  server: hk.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '10|🔸@IRAN_V2RAY1💘 #5'
