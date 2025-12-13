@@ -94,7 +94,7 @@ hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443?insecure=1&
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?insecure=1#10%7CAll-%40V2rayAlpha--33
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#10%7CAll-%40V2rayAlpha--46
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#10%7CAll-%40V2rayAlpha-26
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#10%7C%D8%A7%20%D9%87%D8%A7%20%D8%B1%20%D8%B1%20%D9%86%20%D8%AA%D8%B1%D8%A7%F0%9F%92%8E%20Config_Rayegan...
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?insecure=1&sni=www.bing.com#10%7C%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%20%D8%B1%20%D8%B1%20%D9%86%20%D8%AA%DA%AF%D8%A7%F0%9F%92%8E%20Config_Ra...
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000?insecure=1&sni=bing.com#10%7Ctelegram%20%C2%BB%20%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BB%F0%9D%98%83%F0%9D%9F%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%86
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000?insecure=1&sni=bing.com#10%7CAll-%23V2rayAlpha--14
 hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@uk2.oomz.ru:30000?insecure=1&sni=bing.com#10%7CAll-%23V2rayAlpha--10
