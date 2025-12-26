@@ -1,5 +1,5 @@
 proxies:
-- name: 9|⛄49@oneclickvpnkeys
+- name: 9,10|22@ConfigV2RayNG
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -29,7 +29,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 9,10|All-@V2rayAlpha--7
+- name: 9,10|📟32@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -49,7 +49,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9|19@oneclickvpnkeys
+- name: 9,10|19@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -85,7 +85,7 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
-- name: '9,10|@V2rayNGVPN <= کانفیگ رایگان #1'
+- name: 9,10|🇸🇪 ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: e20cc63dc06088fba56bf786860aadaf
@@ -611,7 +611,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|کانفیگ های بیشتر در چنل تلگرام...
+- name: '10|ConfigV2RayNG #1'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 35200
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 10|💎کانفیگ های بیشتر در چنل تلگرا...
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -621,7 +631,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 10|💎کانفیگ های بیشتر در چنل تلگرا...
+- name: '10|ConfigV2RayNG #3'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '10|💎کانفیگ های بیشتر در چنل تلگرا... #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -641,7 +661,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '10|All--@IRAN_V2RAY1 #4'
+- name: 10|All--@IRAN_V2RAY1🇧
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -674,7 +694,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 10|MTN--@IRAN_V2RAY1
+- name: 10|34@ConfigV2RayNG
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -887,12 +907,20 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '10|28YB5qK!5t#U&insecure=1&sni=na... #1'
+- name: '10|28YB5qK!5t#U&insecure=1&sni=na... #2'
   obfs: salamander
   obfs-password: '&O'
   password: freehomesvpnchannel3
   port: 46914
   server: channel1.saghetalaie.homes
+  tls: false
+  type: hysteria2
+- name: 10|28YB5qK!5t#U&insecure=1&sni=ww...
+  obfs: salamander
+  obfs-password: '&O'
+  password: freehomesvpnmahsa3
+  port: 16396
+  server: donate1.mahsa.homes
   tls: false
   type: hysteria2
 - name: '10|🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #16'
@@ -965,7 +993,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 10|28YB5qK!5t#U&insecure=1&sni=ww...
+- name: '10|28YB5qK!5t#U&insecure=1&sni=ww... #2'
   obfs: salamander
   obfs-password: '&O'
   password: yhqy5AHofQq
