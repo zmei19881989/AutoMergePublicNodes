@@ -23,7 +23,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- name: 14|US_speednode_0071
+- name: 14|US_speednode_0041
   network: ws
   password: k52nemqqdx9e
   port: 8443

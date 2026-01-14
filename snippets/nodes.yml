@@ -132,15 +132,7 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 14|TW_speednode_0057
-  password: e7b70a75-f4f1-4e1e-ab1e-4c76d96eb257
-  port: 31101
-  server: green2.cdntencentmusic.com
-  skip-cert-verify: false
-  sni: green2.cdntencentmusic.com
-  type: trojan
-  udp: true
-- name: 14|US_speednode_0071
+- name: 14|US_speednode_0041
   network: ws
   password: k52nemqqdx9e
   port: 8443
