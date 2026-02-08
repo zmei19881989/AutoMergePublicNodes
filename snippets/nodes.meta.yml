@@ -53,14 +53,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|Config 3 - @lebertad
-  password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0
-  port: 47974
-  server: 75.127.13.83
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 9|All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -71,7 +63,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '9|@V2rayNG3 #1'
+- name: 9|@V2rayNG3
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -81,7 +73,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '9|@V2rayNG3 #2'
+- name: '9|@V2rayNG3 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -91,7 +83,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 9|⚡Telegram = @prrofile_purple
+- name: 9|@icv2ray
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -101,7 +93,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '9|@V2rayNG3 #3'
+- name: '9|@V2rayNG3 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
