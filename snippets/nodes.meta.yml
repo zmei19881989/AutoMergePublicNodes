@@ -7,7 +7,7 @@ proxies:
   sni: mlxy1.xiaoliyu.us
   tls: false
   type: hysteria2
-- name: '8|@Trick_mobil #1'
+- name: '8,9|سرور های پرسرعت بیشتر در چنل🌋@... #1'
   password: 04c2a097-5ed8-49b6-9860-cb4667583745
   port: 2056
   server: mlxy2.xiaoliyu.us
@@ -93,7 +93,17 @@ proxies:
   sni: dash.cloudflare.com
   tls: false
   type: hysteria2
-- name: 9|none
+- name: 9|elegram"@Filtering2020"
+  obfs: salamander
+  obfs-password: 'Telegram-->@AliXTso '
+  password: Telegram-->@AliXTso
+  port: 45000
+  server: gavazn.lnmarketplace.net
+  skip-cert-verify: true
+  sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: '9|Telegram:@config_proxy '
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -153,7 +163,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 9|@icv2ray
+- name: 9|Telegram = @prrofile_purple
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
