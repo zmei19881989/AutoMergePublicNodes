@@ -13,6 +13,14 @@ proxies:
   server: 91.132.51.160
   tls: false
   type: hysteria2
+- name: 8|hy
+  password: 5046SHWqk6
+  port: 844
+  server: 91.132.51.160
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
 - name: '8|@Trick_mobil #2'
   password: Telegram--&gt;@Ln2Ray
   port: 45000
