@@ -7,15 +7,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 9|firstTime
-  obfs: salamander
-  obfs-password: p277(8h6
-  password: Fo1vGsM7Wl
-  port: 443
-  server: 185.206.231.151
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '9|Telegram : @V2ynpv'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
