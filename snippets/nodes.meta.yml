@@ -7,15 +7,47 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '8|🇯🇵JP_@WangCai_8 #1'
+- name: 8|SG_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 13.115.3.140
+  server: 13.212.116.135
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '8|🇯🇵JP_@WangCai_8 #2'
+- name: 8|🇸🇬SG_@WangCai_8
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.141.33
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇸🇬SG_@WangCai_8 #1'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.202.17
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇸🇬SG_@WangCai_8 #2'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.212.49.151
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: 8|🇬SG_@WangCai_8
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.229.96.50
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇯🇵JP_@WangCai_8 #1'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.231.162.174
@@ -23,7 +55,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '8|🇯🇵JP_@WangCai_8 #3'
+- name: '8|🇯🇵JP_@WangCai_8 #2'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 13.231.21.110
@@ -31,7 +63,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '8|🇯🇵JP_@WangCai_8 #4'
+- name: 8|🇵JP_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 3.112.239.167
@@ -40,14 +72,6 @@ proxies:
   tls: false
   type: hysteria2
 - name: 8|🇳IN_@WangCai_8
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 43.205.214.214
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '8|🇳IN_@WangCai_8 #1'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 43.205.231.160
@@ -59,6 +83,30 @@ proxies:
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 43.205.254.42
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇵JP_@WangCai_8 #1'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.168.136.2
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇵JP_@WangCai_8 #2'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.250.218.42
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '8|🇯🇵JP_@WangCai_8 #3'
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 54.250.65.230
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
