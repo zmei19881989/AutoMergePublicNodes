@@ -240,10 +240,9 @@ proxies:
   port: 443
   server: hy2.aspidnet.xyz
   skip-cert-verify: false
-  sni: ''
   tls: false
   type: hysteria2
-- name: 9|@vmesskhodam
+- name: 9|@freenettir🇳🇱The Netherlands️D...
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
