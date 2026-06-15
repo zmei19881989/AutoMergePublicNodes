@@ -161,6 +161,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 9|️️@ATLAS_V2VPN️️405️
+  obfs: salamander
+  obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
+  password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
+  port: 9443
+  server: 80.66.81.78
+  skip-cert-verify: false
+  sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 11|tg频道:@ripaojiedian
   password: amazonskr05
