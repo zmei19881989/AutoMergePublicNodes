@@ -10,7 +10,7 @@ proxies:
 - name: 8|🇸US_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 34.220.246.198
+  server: 3.133.156.115
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false

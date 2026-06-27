@@ -7,14 +7,6 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|1
-  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
-  port: 2055
-  server: xjp1.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp1.mangshe.xyz
-  tls: false
-  type: hysteria2
 - name: 8|JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
@@ -33,7 +25,7 @@ proxies:
 - name: 8|🇸US_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 34.220.246.198
+  server: 3.133.156.115
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -88,14 +80,14 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇹🇷
+- name: '9|@prrofile_purple   '
   obfs: salamander
-  obfs-password: T-me-V2RayyNGvpn-ioSniper
-  password: 5U7LBgpLNj
+  obfs-password: EsimObfs_9mK2x7
+  password: EsimHy2Game_7xK9mPq2
   port: 443
-  server: 87.120.106.36
-  skip-cert-verify: true
-  sni: www.oracle.com
+  server: 31.22.91.243
+  skip-cert-verify: false
+  sni: se.esimpson.org
   tls: false
   type: hysteria2
 - name: 9|+@Azarakhsh_Proxy+
@@ -108,27 +100,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 9|@V2RayyNGvpn🇪
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: S0Mq06tf1I
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: 9|🇩🇪@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: T-Me-V2RayyNGvpn
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: 9|@V2RayyNGvpn🇮
+- name: 9|@V2RayyNGvpn🇫🇮
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: V2RayyNgvpn
@@ -177,17 +149,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '9|🇩🇪@V2RayyNGvpn🇩🇪 #1'
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: dJtElQSz4v
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: 9|🇱 @rayhub_ir 0626-7
+- name: 9|🇳🇱 @rayhub_ir 0626-7
   obfs: salamander
   obfs-password: 2a7e8084206388f4
   password: gdubbi2zb6gdp0c8
@@ -197,7 +159,7 @@ proxies:
   sni: gettestin.xxee.ru
   tls: false
   type: hysteria2
-- name: '9|@prrofile_purple   '
+- name: 9|@prrofile_purple  ♥️👈 تلگرام
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -230,6 +192,16 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
+  port: 443
+  server: 65.109.177.191
+  skip-cert-verify: true
+  sni: www.oracle.com
+  tls: false
+  type: hysteria2
+- name: 9|🇫🇮 Finland hy2🇫🇮  ت ید 🔐
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: t-me-v2rayyngvpn
   port: 443
   server: 65.109.177.191
   skip-cert-verify: true
