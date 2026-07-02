@@ -25,7 +25,7 @@ proxies:
 - name: 8|SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 13.229.94.221
+  server: 13.229.51.19
   skip-cert-verify: true
   sni: https://t.me/WangCai2
   tls: false
@@ -33,7 +33,7 @@ proxies:
 - name: 8|🇸🇬SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 47.128.242.210
+  server: 54.179.149.169
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -222,6 +222,16 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
+- name: 9|@filembad
+  obfs: salamander
+  obfs-password: 60wvbymjlc9zw3gk
+  password: zru63dr6vokx56iy
+  port: 52067
+  server: tr-1.metsima.com
+  skip-cert-verify: false
+  sni: tr-1.metsima.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
