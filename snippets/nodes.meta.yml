@@ -63,19 +63,12 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 9|🏠68@oneclickvpnkeys
-  password: 00dcd873-9211-4d61-ad35-87999906e5c8
-  port: 443
-  server: fta.fontanvpn.com
-  sni: fta.fontanvpn.com
-  tls: false
-  type: hysteria2
-- name: 9|84@oneclickvpnkeys
+- name: 9|🍓84@oneclickvpnkeys
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.129
   skip-cert-verify: true
-  sni: https://t.me/WangCai2
+  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: 9|🍓85@oneclickvpnkeys
@@ -467,7 +460,7 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
-- name: '9|تلگرام : MTMVPN'
+- name: 9|@filembad
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -523,7 +516,7 @@ proxies:
   sni: nf.easyiran.org
   tls: false
   type: hysteria2
-- name: 9|🇪@V2raybazi
+- name: 9|🇩🇪@V2raybazi
   password: zhangyang
   port: 6443
   server: 130.61.50.75
