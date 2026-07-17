@@ -21,6 +21,7 @@ hysteria2://RKJDOKrcIZ@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=sala
 hysteria2://TELEGRAM-ID-soalvajavaab@pristytools.com.pristytools.com:2053?obfs=salamander&obfs-password=dwv3ped4yi46iw8r#9%7C%F0%9F%AA%AD46%40oneclickvpnkeys
 hysteria2://V2RayyNGvpn-@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%F0%9F%87%A9%F0%9F%87%AATelegram%3DV2RayyNGvpn
 hysteria2://V2RayyNGvpn@66.92.161.59:42286?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7CTelegram%3DV2RayyNGvpn%F0%9F%87%A6
+hysteria2://V2RayyNGvpn@91.107.174.32:25810?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#9%7CTelegram%3DV2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA2
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#9%7C%40prrofile_purple%20%20%EF%B8%8F%20%D8%AA%D8%A7
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#9%7C%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#9%7C%40KAFING_2%20%232
