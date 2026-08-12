@@ -162,7 +162,7 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: 8,9|️20@oneclickvpnkeys
+- name: 8,9|🎗️20@oneclickvpnkeys
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: iq5ny.pleiades.codes
@@ -304,14 +304,6 @@ proxies:
   server: freedom.chenlan.top
   skip-cert-verify: true
   sni: freedom.chenlan.top
-  tls: false
-  type: hysteria2
-- name: 8|140820 | Telegram = t.me/SOSke...
-  password: STYyftThFn
-  port: 12765
-  server: freedom.chenlan.top
-  skip-cert-verify: true
-  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 8|美国4@wxgqlfx#美国
@@ -462,7 +454,7 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 8|🇸139909 | ⚡️Telegram = t.me/SO...
+- name: 8|🇺🇸139909 | Telegram = t.me/SOS...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.213.89.22
@@ -498,22 +490,12 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 9|22@oneclickvpnkeys
+- name: 9|🎗️22@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: 144.31.207.60
   skip-cert-verify: true
   sni: nl1.noesissite.ru
-  tls: false
-  type: hysteria2
-- name: 9|@confiig_hub
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
   tls: false
   type: hysteria2
 - name: 9|@Daily_Configs
@@ -542,7 +524,7 @@ proxies:
   sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
-- name: 9|140981 | ️Telegram = t.me/SOSk...
+- name: 9|🇫🇮FI-@VPNine1
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -552,7 +534,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫🇮140982 | ⚡️Telegram = t.me/S...
+- name: 9|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: 527zd9w4nuaccd7g
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -562,7 +544,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫🇮140983 | ⚡️Telegram = t.me/S...
+- name: '9|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: 3ff7b2e75ce84d05ae16572b60a9b707
@@ -572,13 +554,97 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫🇮140984 | ⚡️Telegram = t.me/S...
+- name: '9|🇫🇮FI-🚀@VPNine1 #2'
   obfs: salamander
   obfs-password: 5xo4v7u2pv8bktvb
   password: 3ff7b2e75ce84d05ae16572b60a9b707
   port: 52003
   server: assets.gateway-stream.com
   skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #3'
+  obfs: salamander
+  obfs-password: kkh2qmrbxmh8h22a
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52020
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #4'
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52021
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #5'
+  obfs: salamander
+  obfs-password: 1wcfqg6gwoyxlplo
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52022
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #6'
+  obfs: salamander
+  obfs-password: detgimgm8qh8i2g2
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52023
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #7'
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52024
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #8'
+  obfs: salamander
+  obfs-password: iknjsvsjagi449mm
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52025
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: '9|🇫🇮FI-🚀@VPNine1 #9'
+  obfs: salamander
+  obfs-password: p61ckuavkc1s2hfl
+  password: 3ff7b2e75ce84d05ae16572b60a9b707
+  port: 52031
+  server: assets.gateway-stream.com
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
@@ -611,26 +677,6 @@ proxies:
   obfs-password: 5xo4v7u2pv8bktvb
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
   port: 52003
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 9|🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: hc7wdqfxl9wi1y8z
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52032
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: '9|🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: hc7wdqfxl9wi1y8z
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52032
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -673,24 +719,14 @@ proxies:
   sni: gorbachev-th.kvnfreetest.uk
   tls: false
   type: hysteria2
-- name: 9|️16@oneclickvpnkeys
+- name: 9|🎗️16@oneclickvpnkeys
   password: 95e8532b-cc69-42d4-9553-e3c23292b15b
   port: 8443
   server: 151.247.193.5
   sni: iq5ny.pleiades.codes
   tls: false
   type: hysteria2
-- name: 9|140846 | ⚡️Telegram = t.me/SOS...
-  obfs: salamander
-  obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
-  password: 9cc2113e-6b5b-4ced-9c46-70cf78d2c599
-  port: 2082
-  server: dns.tokyoservice.ir
-  skip-cert-verify: false
-  sni: hy2.tokyoservice.ir
-  tls: false
-  type: hysteria2
-- name: 9|@Configvibes🇷
+- name: 9|@Configvibes
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -757,7 +793,7 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 9|🇳🇱 - NL - @FreeOnlineVPN
+- name: 9| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -797,15 +833,6 @@ proxies:
   server: 144.31.237.219
   skip-cert-verify: true
   sni: nl2.sferavpn.pro
-  tls: false
-  type: hysteria2
-- name: 9|🇪🇪EE-🚀@VPNine1
-  obfs: salamander
-  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
-  password: cd74c0a406664a5bc0bac098220a2468
-  port: 443
-  server: ee1.sferavpn.pro
-  sni: ee1.sferavpn.pro
   tls: false
   type: hysteria2
 - name: '9|未命名 #9'
